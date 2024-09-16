@@ -1,0 +1,81 @@
+
+
+body {
+  padding-top: 40px;
+  padding-left: 80px;
+  padding-right: 80px;
+  margin: center;
+
+}
+img {
+  max-width: 100%;
+  height:  auto;
+  display: block;
+  text-align: center;
+  padding-left: 30px;
+ 
+}
+
+div, .text-box {
+ background-color: white;
+ padding-top: 20px;
+ padding-bottom: 15px;
+
+}
+  .title, h1 {
+    padding-top: 20px;
+    padding-bottom: 15px;
+    font-size: 40px;
+    text-align: center;
+    background-color: beige;
+    border-top: 10px solid rgb(0,0,128)
+    
+  }
+ 
+ 
+  .description, p {
+    font-size: 18px;
+    text-align: left;
+    padding-left: 40px;
+    border-top: 10px solid rgb(0,0,128);
+    
+  }
+  p {
+    padding-top: 30px;
+  }
+
+main {
+  padding-top: 0px;
+  background-color: beige;
+  ;
+}
+
+
+figcaption {
+  font-size: 18px;
+  text-align: left;
+ 
+  background-color: beige;
+ 
+  
+
+} 
+
+a, h3 {
+  margin: auto;
+  text-align: center;
+ 
+  color: white;
+  background-color: rgb(0,0,128);
+
+}
+section { 
+font-size: 18px;
+margin: left;
+padding-left: 20px;
+padding-right: 15px;
+padding-top: 30px;
+padding-bottom: 20px;
+}
+
+
